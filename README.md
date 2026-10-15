@@ -141,7 +141,7 @@ The snake eats my green commit squares. The more I code, the more it eats.
 
 <div align="center">
 
-<a href="mailto:anshupandey4503@gmail.com"><img src="https://img.shields.io/badge/Email%20me-anshupandey4503%40gmail.com-7dd3fc?style=for-the-badge&logo=gmail&logoColor=7dd3fc&labelColor=0f172a" alt="Email" /></a>
+<a href="Emailto:anshupandey4503@gmail.com"><img src="https://img.shields.io/badge/Email%20me-anshupandey4503%40gmail.com-7dd3fc?style=for-the-badge&logo=gmail&logoColor=7dd3fc&labelColor=0f172a" alt="Email" /></a>
 <a href="https://linkedin.com/in/anshu-pandey-083a07254"><img src="https://img.shields.io/badge/LinkedIn-Anshu%20Pandey-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=0f172a" alt="LinkedIn" /></a>
 
 <br/><br/>
